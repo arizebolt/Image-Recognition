@@ -1,2 +1,2 @@
 # Image-Recognition
-basic image recognition (AI/ML)
+Basic image recognition (AI/ML)
